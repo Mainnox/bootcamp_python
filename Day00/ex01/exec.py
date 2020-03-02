@@ -23,4 +23,4 @@ for i in gnirts:
         count -= 1
 x = " ".join(uplo)
 if count > 1:
-    print uplo
+    print (uplo)
